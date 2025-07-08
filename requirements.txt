@@ -1,0 +1,2 @@
+# installation des packages
+pymongo

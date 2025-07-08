@@ -1,0 +1,182 @@
+[
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323965e"
+        },
+        "nom": "Montre connectée Garmin",
+        "categorie": "Sport",
+        "prix": 161.29,
+        "stock": 18
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323965f"
+        },
+        "nom": "Casque Bluetooth Sony",
+        "categorie": "Informatique",
+        "prix": 114.58,
+        "stock": 60
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239660"
+        },
+        "nom": "Clavier mécanique RGB",
+        "categorie": "Informatique",
+        "prix": 85.19,
+        "stock": 59
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239661"
+        },
+        "nom": "Écran 27 pouces Samsung",
+        "categorie": "Informatique",
+        "prix": 257.5,
+        "stock": 72
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239662"
+        },
+        "nom": "Lampe LED bureau",
+        "categorie": "Maison",
+        "prix": 45.16,
+        "stock": 83
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239663"
+        },
+        "nom": "Aspirateur Dyson",
+        "categorie": "Maison",
+        "prix": 396.98,
+        "stock": 80
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239664"
+        },
+        "nom": "Écran 27 pouces Samsung",
+        "categorie": "Informatique",
+        "prix": 248.14,
+        "stock": 37
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239665"
+        },
+        "nom": "Clavier mécanique RGB",
+        "categorie": "Informatique",
+        "prix": 79.07,
+        "stock": 10
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239666"
+        },
+        "nom": "Aspirateur Dyson",
+        "categorie": "Maison",
+        "prix": 422.13,
+        "stock": 28
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239667"
+        },
+        "nom": "Écran 27 pouces Samsung",
+        "categorie": "Informatique",
+        "prix": 206.86,
+        "stock": 61
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239668"
+        },
+        "nom": "Montre connectée Garmin",
+        "categorie": "Sport",
+        "prix": 238.43,
+        "stock": 34
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239669"
+        },
+        "nom": "Clavier mécanique RGB",
+        "categorie": "Informatique",
+        "prix": 83.82,
+        "stock": 22
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966a"
+        },
+        "nom": "Lampe LED bureau",
+        "categorie": "Maison",
+        "prix": 40.22,
+        "stock": 12
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966b"
+        },
+        "nom": "Aspirateur Dyson",
+        "categorie": "Maison",
+        "prix": 325.65,
+        "stock": 39
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966c"
+        },
+        "nom": "Souris sans fil Logitech",
+        "categorie": "Informatique",
+        "prix": 44.24,
+        "stock": 65
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966d"
+        },
+        "nom": "Lampe LED bureau",
+        "categorie": "Maison",
+        "prix": 43.64,
+        "stock": 25
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966e"
+        },
+        "nom": "Écran 27 pouces Samsung",
+        "categorie": "Informatique",
+        "prix": 239.66,
+        "stock": 88
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323966f"
+        },
+        "nom": "Tapis de course",
+        "categorie": "Sport",
+        "prix": 535.78,
+        "stock": 77
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239670"
+        },
+        "nom": "Clavier mécanique RGB",
+        "categorie": "Informatique",
+        "prix": 102.75,
+        "stock": 39
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239671"
+        },
+        "nom": "Souris sans fil Logitech",
+        "categorie": "Informatique",
+        "prix": 53.8,
+        "stock": 99
+    }
+]

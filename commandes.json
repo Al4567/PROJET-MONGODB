@@ -1,0 +1,482 @@
+[
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239686"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239681"
+        },
+        "date_commande": {
+            "$date": "2025-07-05T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 3,
+                "prix_unitaire": 325.65
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 1,
+                "prix_unitaire": 83.82
+            },
+            {
+                "nom": "Souris sans fil Logitech",
+                "quantite": 3,
+                "prix_unitaire": 53.8
+            }
+        ],
+        "total": 1222.17
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239687"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-06T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 2,
+                "prix_unitaire": 239.66
+            },
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 3,
+                "prix_unitaire": 422.13
+            }
+        ],
+        "total": 1745.71
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239688"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239676"
+        },
+        "date_commande": {
+            "$date": "2025-07-04T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 3,
+                "prix_unitaire": 257.5
+            },
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 3,
+                "prix_unitaire": 396.98
+            },
+            {
+                "nom": "Montre connectée Garmin",
+                "quantite": 2,
+                "prix_unitaire": 238.43
+            }
+        ],
+        "total": 2440.3
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239689"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a2323967e"
+        },
+        "date_commande": {
+            "$date": "2025-07-05T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 4,
+                "prix_unitaire": 83.82
+            }
+        ],
+        "total": 335.28
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968a"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239685"
+        },
+        "date_commande": {
+            "$date": "2025-07-03T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 4,
+                "prix_unitaire": 257.5
+            },
+            {
+                "nom": "Souris sans fil Logitech",
+                "quantite": 4,
+                "prix_unitaire": 53.8
+            },
+            {
+                "nom": "Souris sans fil Logitech",
+                "quantite": 3,
+                "prix_unitaire": 53.8
+            }
+        ],
+        "total": 1406.6
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968b"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-05T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Tapis de course",
+                "quantite": 2,
+                "prix_unitaire": 535.78
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 3,
+                "prix_unitaire": 83.82
+            },
+            {
+                "nom": "Montre connectée Garmin",
+                "quantite": 4,
+                "prix_unitaire": 161.29
+            }
+        ],
+        "total": 1968.18
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968c"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-01T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Tapis de course",
+                "quantite": 4,
+                "prix_unitaire": 535.78
+            },
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 4,
+                "prix_unitaire": 239.66
+            }
+        ],
+        "total": 3101.76
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968d"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-02T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Montre connectée Garmin",
+                "quantite": 2,
+                "prix_unitaire": 161.29
+            }
+        ],
+        "total": 322.58
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968e"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-01T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 1,
+                "prix_unitaire": 396.98
+            },
+            {
+                "nom": "Lampe LED bureau",
+                "quantite": 3,
+                "prix_unitaire": 43.64
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 1,
+                "prix_unitaire": 85.19
+            }
+        ],
+        "total": 613.09
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a2323968f"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239676"
+        },
+        "date_commande": {
+            "$date": "2025-07-05T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 2,
+                "prix_unitaire": 206.86
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 1,
+                "prix_unitaire": 102.75
+            }
+        ],
+        "total": 516.47
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239690"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239682"
+        },
+        "date_commande": {
+            "$date": "2025-07-01T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 4,
+                "prix_unitaire": 239.66
+            }
+        ],
+        "total": 958.64
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239691"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239675"
+        },
+        "date_commande": {
+            "$date": "2025-07-03T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 1,
+                "prix_unitaire": 83.82
+            }
+        ],
+        "total": 83.82
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239692"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239685"
+        },
+        "date_commande": {
+            "$date": "2025-07-04T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 3,
+                "prix_unitaire": 396.98
+            }
+        ],
+        "total": 1190.94
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239693"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239673"
+        },
+        "date_commande": {
+            "$date": "2025-07-01T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 2,
+                "prix_unitaire": 206.86
+            }
+        ],
+        "total": 413.72
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239694"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a2323967f"
+        },
+        "date_commande": {
+            "$date": "2025-07-01T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 3,
+                "prix_unitaire": 396.98
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 2,
+                "prix_unitaire": 83.82
+            },
+            {
+                "nom": "Lampe LED bureau",
+                "quantite": 2,
+                "prix_unitaire": 40.22
+            }
+        ],
+        "total": 1439.02
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239695"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239680"
+        },
+        "date_commande": {
+            "$date": "2025-07-02T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Tapis de course",
+                "quantite": 2,
+                "prix_unitaire": 535.78
+            },
+            {
+                "nom": "Clavier mécanique RGB",
+                "quantite": 3,
+                "prix_unitaire": 79.07
+            },
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 3,
+                "prix_unitaire": 248.14
+            }
+        ],
+        "total": 2053.19
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239696"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239672"
+        },
+        "date_commande": {
+            "$date": "2025-07-02T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Souris sans fil Logitech",
+                "quantite": 1,
+                "prix_unitaire": 44.24
+            },
+            {
+                "nom": "Montre connectée Garmin",
+                "quantite": 2,
+                "prix_unitaire": 238.43
+            }
+        ],
+        "total": 521.1
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239697"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a2323967d"
+        },
+        "date_commande": {
+            "$date": "2025-07-02T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 4,
+                "prix_unitaire": 325.65
+            }
+        ],
+        "total": 1302.6
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239698"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a23239676"
+        },
+        "date_commande": {
+            "$date": "2025-07-02T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Aspirateur Dyson",
+                "quantite": 4,
+                "prix_unitaire": 325.65
+            },
+            {
+                "nom": "Lampe LED bureau",
+                "quantite": 1,
+                "prix_unitaire": 43.64
+            }
+        ],
+        "total": 1346.24
+    },
+    {
+        "_id": {
+            "$oid": "686bc11f6be8a32a23239699"
+        },
+        "client_id": {
+            "$oid": "686bc11f6be8a32a2323967b"
+        },
+        "date_commande": {
+            "$date": "2025-07-03T00:00:00Z"
+        },
+        "produits": [
+            {
+                "nom": "Écran 27 pouces Samsung",
+                "quantite": 2,
+                "prix_unitaire": 248.14
+            },
+            {
+                "nom": "Souris sans fil Logitech",
+                "quantite": 1,
+                "prix_unitaire": 53.8
+            }
+        ],
+        "total": 550.08
+    }
+]
