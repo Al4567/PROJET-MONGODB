@@ -53,8 +53,10 @@ Dans ton terminal VS Code :
 
 ```bash
 
+# creer un environnement virtuel
+python -m venv venv
 
-# contient les packages utilisés
+# contient les packages utilisés et les installe dans l'environnement virtuel
 pip install -r requirements.txt
 
 
