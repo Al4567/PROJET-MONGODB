@@ -42,7 +42,7 @@
     - But : Projection pour ne montrer que `total` et `date_commande`.
     - Lecture : Affiche uniquement ces champs.
 
-### 🔍 Filtres et requêtes avancées
+###  Filtres et requêtes avancées
 
 1. **Lister les clients inscrits en juillet 2025 avec email @example**
     - But : Utiliser `$and` avec un filtre `date` et `regex`.
