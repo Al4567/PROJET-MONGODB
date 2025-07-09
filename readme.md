@@ -16,6 +16,11 @@
 1. **AMEKOUDJI Arvin Lauris Gildas Efoé**
 1. **TEKO EMMANUELLA**
 
+## PREREQUIS
+
+1. **INSTALLER la version 7.0 de mongdb**
+1. **INSTALLER la version 3.13.1 de python**
+
 ## Structure du projet
 
 ``` bash
@@ -40,11 +45,14 @@ PROJETMONGODB
 
 ## Exécution du projet
 
+
 ### Installer les dépendances
 
 Dans ton terminal VS Code :
 
 ```bash
+
+
 # contient les packages utilisés
 pip install -r requirements.txt
 
