@@ -22,18 +22,17 @@
 PROJETMONGODB
 │
 ├── insert_data.py # Remplit la base avec produits, clients, commandes
-├── create_user.py # Crée l'utilisateur MongoDB avec rôle readWrite
-├── requetes.py # Exécute les 20 requêtes documentées
+├── Crud_et_requetes_simple.py # Exécute les 6 requetes crud et Simple
+├── filtres_et_requetes_anvancees.py # Exécute les 6 requêtes avancees
+|___ agregation.py # Execute les 8 requetes d'agregation
 │
 ├── produits.json # Export JSON des produits
 ├── clients.json # Export JSON des clients
 ├── commandes.json # Export JSON des commandes
 │
-├── requêtes_et_sécurité.md # Document listant les requêtes, explications 
-├── requêtes_et_sécurité.pdf # Version PDF du document
 ├── README.md 
 ├── requirements.txt # Liste des dépendances Python
-|___ requetes_text.py # pour se connecter a la base de donnes sur Atlas
+|___ requetes_text.py # test pour se connecter a la base de donnes sur Atlas
 │
 └── .vscode/ # Paramètres VS Code
 
@@ -57,14 +56,17 @@ python insert_data.py
 
 
 #  Cela lance les 20 requêtes (CRUD, filtres, agrégations) avec explications affichées dans le terminal.
-python requetes.py
+python Crud_et_requetes_simple.py
+python filtres_et_requetes_anvancees.py
+python agregation.py
 
-#  Créer l’utilisateur MongoDB local, Cela crée un utilisateur appUser avec rôle readWrite sur la base Projet_Ecommerce.
-python create_user.py
+
 
 ```
 
 ## Bonus : Hébergement MongoDB Atlas
+
+### **il faut installer au préalable mongotools**
 
 1. **Cluster gratuit M0 créé sur MongoDB Atlas.**
 
