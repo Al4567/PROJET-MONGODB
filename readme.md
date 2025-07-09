@@ -34,6 +34,7 @@ PROJETMONGODB
 ├── produits.json # Export JSON des produits
 ├── clients.json # Export JSON des clients
 ├── commandes.json # Export JSON des commandes
+|___ Requete_MongoDB.ipynb # notebook pour afficher le resultat des requetes
 │
 ├── README.md 
 ├── requirements.txt # Liste des dépendances Python
