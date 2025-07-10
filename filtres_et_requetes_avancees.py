@@ -80,9 +80,9 @@ try:
         print(client)
         
 except errors.ConnectionFailure as e:
-    print("❌ Échec de la connexion MongoDB :", e)
+    print("Échec de la connexion MongoDB :", e)
 except errors.PyMongoError as e:
-    print("❌ Erreur PyMongo :", e)
+    print("Erreur PyMongo :", e)
 except Exception as e:
-    print("❌ Erreur inattendue :", e)
+    print("Erreur inattendue :", e)
 

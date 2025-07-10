@@ -75,8 +75,10 @@ try:
         print("Liste des commandes en affichant uniquement le total et la date.")
         print(cmd)
         
+except errors.ConnectionFailure as e:
+    print("Échec de la connexion MongoDB :", e)
 except errors.PyMongoError as e:
-    print("Erreur MongoDB :", e)
+    print("Erreur PyMongo :", e)
 except Exception as e:
     print("Erreur inattendue :", e)
 
